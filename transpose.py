@@ -6,5 +6,4 @@ for col in range(len(matrix[0])):
     for row in range(len(matrix)):
         new_row.append(0)
     transpose.append(new_row)
-
 print(transpose)
